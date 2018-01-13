@@ -1,2 +1,2 @@
-# Bitcoin-s.peercoin
-{"title":"Bitcoin-s","cat":"Peercoin","time":"5","reward":"25000","description":"Faucethub.io"}
+# vivocoin.peercoin
+{"title":"vivocoin","cat":"peercoin","time":"5","reward":"25000","description":"Multicoin Faucethub"}
